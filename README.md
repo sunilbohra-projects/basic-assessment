@@ -1,6 +1,6 @@
 # basic-assessment
 
-This MicrroService exposes  operations forr getting countries, leagues, teams, standings.
+This MicroService exposes  operations forr getting countries, leagues, teams, standings.
 
 To start the service as a docker, please follow the below steps:
 
